@@ -1,0 +1,22 @@
+{
+  "name": "flash-card-generator",
+  "version": "1.0.0",
+  "description": "A node console program that lets you create two basic types of flash cards. *They are not saved*",
+  "main": "FlashCard.js",
+  "scripts": {
+    "test": "node FlashCard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coop741/Flashcard-Generator.git"
+  },
+  "author": "Trent Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coop741/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/coop741/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
